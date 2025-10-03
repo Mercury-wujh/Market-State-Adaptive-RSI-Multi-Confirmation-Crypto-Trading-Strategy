@@ -1,0 +1,2 @@
+# Crypto-Trading-Strategy-RSI-Combined-Bollinger-Bands-MACD-Based-on-Market-States
+The cryptocurrency is prone to overbought and oversold and RSI serves as a widely-used indicator for measuring buying and selling power. But using RSI only to generate trading signals is usually ineffective. So the strategy combined Bollinger Bands and MACD as a dual confirmation of trading signals, improving the performance significantly.

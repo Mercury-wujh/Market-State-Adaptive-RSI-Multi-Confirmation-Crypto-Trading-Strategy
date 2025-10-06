@@ -1,9 +1,9 @@
 # Market-State-Adaptive-RSI-Multi-Confirmation-Crypto-Trading-Strategy
 ## File Discription
-1. main.ipynb:
-2. func.py:
-3. test.ipynb:
-4. live_trading:
+1. main.ipynb: struture, setting and performance of the strategy
+2. func.py: define all the functions employed in main.ipynb and test.ipynb
+3. test.ipynb: the optimization process of strategy, showing how the strategy was improved step by step
+4. live_trading.ipynb: deploy the strategy for live execution; generate daily report including account summary and equity curve
 
 ## Rational
 The cryptocurrency is prone to overbought and oversold and RSI serves as a widely-used indicator for measuring buying and selling power. But using RSI only to generate trading signals is usually ineffective. So the strategy combined Bollinger Bands and MACD as a dual confirmation of trading signals, improving the performance significantly.

@@ -1,8 +1,8 @@
 # Market-State-Adaptive-RSI-Multi-Confirmation-Crypto-Trading-Strategy
 ## File Discription
-1. main.ipynb: struture, setting and performance of the strategy
+1. result.ipynb: struture, setting and performance of the strategy
 2. func.py: define all the functions employed in main.ipynb and test.ipynb
-3. test.ipynb: the optimization process of strategy, showing how the strategy was improved step by step
+3. test.ipynb (IMPORTANT): the optimization process of strategy, showing how the strategy was improved step by step
 4. live_trading.ipynb: deploy the strategy for live execution; generate daily report including account summary and equity curve
 
 ## Rational
